@@ -13,10 +13,10 @@ I’m **Syed Shoaib**, a passionate Software Engineer! 🚀
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/syedshoaib577/)  
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/syedshoaib577)
 
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=syedshoaib577&color=blue)
-
+-->
 ---
-
 ### 🚀 **GitHub Stats**
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true)  
 
