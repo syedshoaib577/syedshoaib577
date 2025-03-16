@@ -5,9 +5,9 @@ I’m **Syed Shoaib**, a passionate Software Engineer! 🚀
 - 🔭 I’m currently working as an **SDET**  
 - 🌱 I love learning about **latest technologies**  
 - 💬 Ask me about **automation, testing and coding best practices**  
-- 📫 How to reach me: [LinkedIn - *syedshoaib*](https://linkedin.com/in/syedshoaib577)  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/syedshoaib577)  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical)
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1000)
 
