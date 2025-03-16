@@ -9,6 +9,11 @@ I’m **Syed Shoaib**, a passionate Software Engineer! 🚀
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib&show_icons=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib&layout=compact&langs_count=6&theme=radical)
+
+
 <!--
 **syedshoaib577/syedshoaib577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
