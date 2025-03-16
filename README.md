@@ -1,18 +1,28 @@
 
+
 # Hi there! 👋  
 I’m **Syed Shoaib**, a passionate Software Engineer! 🚀  
+**Passionate about building software application!**  
 
 - 🔭 I’m currently working as an **SDET**  
 - 🌱 I love learning about **latest technologies**  
 - 💬 Ask me about **automation, testing and coding best practices**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/syedshoaib577)  
 
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical)
+📫 **How to reach me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/syedshoaib577)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/syedshoaib577/)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/syedshoaib577)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1000)
+![Profile Views](https://komarev.com/ghpvc/?username=syedshoaib577&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib577&layout=compact&langs_count=6&theme=radical)
+---
 
+### 🚀 **GitHub Stats**
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedshoaib577&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib577&layout=compact&langs_count=6&theme=radical&hide=html,css)
 
 <!--
 **syedshoaib577/syedshoaib577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
