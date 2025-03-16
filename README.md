@@ -7,11 +7,11 @@ I’m **Syed Shoaib**, a passionate Software Engineer! 🚀
 - 💬 Ask me about **automation, testing and coding best practices**  
 - 📫 How to reach me: [LinkedIn - *syedshoaib*](https://linkedin.com/in/syedshoaib577)  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib577&layout=compact&langs_count=6&theme=radical)
 
 
 <!--
