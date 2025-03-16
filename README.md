@@ -18,10 +18,8 @@ I’m **Syed Shoaib**, a passionate Software Engineer! 🚀
 -->
 ---
 ### 🚀 **GitHub Stats**
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true)  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedshoaib577&theme=radical)  
-
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedshoaib577&show_icons=true&theme=radical&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedshoaib577&layout=compact&langs_count=6&theme=radical&hide=html,css)
 
 <!--
